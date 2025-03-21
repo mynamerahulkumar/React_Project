@@ -1,0 +1,11 @@
+{
+  "name": "reactintro",
+  "version": "1.0.0",
+  "description": "react-intro",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "rahul",
+  "license": "ISC"
+}
