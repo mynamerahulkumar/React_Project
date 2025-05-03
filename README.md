@@ -1,2 +1,2 @@
-# React_Project
+# React_Projects
 React projects
